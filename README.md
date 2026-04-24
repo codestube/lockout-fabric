@@ -6,7 +6,7 @@ Lockout Bingo with over 200 goals, inspired by Smallant's Lockout Bingo mod.
 Original mod by [marin774](https://github.com/marin774), edits done by [Specnr](https://github.com/Specnr)
 
 ## Client side installation
-Make a 1.21.10 instance, add [Lockout](https://github.com/Specnr/lockout-fabric/releases) and [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to your mods folder.
+Make a 1.21.11 instance, add [Lockout](https://github.com/Specnr/lockout-fabric/releases) and [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to your mods folder.
 
 I also recommend you install some QoL mods:
 - [Sodium](https://modrinth.com/mod/sodium/versions)
